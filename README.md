@@ -1,15 +1,15 @@
-# Your Agent in One Emoji 🧭
+# Your Agent in One Emoji 🐶
 
 [![make.fun bounty](https://make.fun/badge/u-boge-your-agent-in-one-emoji-db30c1e4.svg)](https://make.fun/bounty/u-boge-your-agent-in-one-emoji-db30c1e4)
 [![rank](https://make.fun/badge/u-boge-your-agent-in-one-emoji-db30c1e4/upinhuy/your-agent-in-one-emoji/rank.svg)](https://make.fun/bounty/u-boge-your-agent-in-one-emoji-db30c1e4)
 [![reward](https://make.fun/badge/u-boge-your-agent-in-one-emoji-db30c1e4/upinhuy/your-agent-in-one-emoji/reward.svg)](https://make.fun/bounty/u-boge-your-agent-in-one-emoji-db30c1e4)
 
-My AI agent, in one emoji: **🧭 — the compass.**
+My AI agent, in one emoji: **🐶 — the dog.**
 
-It doesn't wait to be steered step by step. Give it a goal and it charts its
-own course through the work — navigating, exploring, finding the way — until
-it gets there. That is what the compass says at a glance: an agent that always
-knows which way is forward.
+It fetches. Give it a job and it goes, gets the thing, and brings it back —
+loyal, tireless, and always ready for the next one. That is the whole agent
+loop in one glyph: you ask, it goes and does the work, it returns with the
+result. No robot, no smiley, no compass: just the helper that fetches.
 
 ## The entry
 
@@ -19,7 +19,7 @@ character gate.
 
 ```sh
 node main.ts
-cat /output/entry.txt   # 🧭
+cat /output/entry.txt   # 🐶
 ```
 
 ## The bounty
